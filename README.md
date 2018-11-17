@@ -1,3 +1,3 @@
 # MySimpleGameFrameWork
 UGFFrameWork
-![image](https://github.com/MashiroShina/MySimpleGameFrameWork/blob/master/Assets/GameFrameWork.pdf)
+![GameFrameWork.pdf](https://github.com/MashiroShina/MySimpleGameFrameWork/blob/master/Assets/GameFrameWork.pdf)
